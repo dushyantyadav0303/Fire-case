@@ -4,6 +4,8 @@ description: "Fire case - this is 3d printed fire shape Jewellery organiser Desi
 Startes_at: "2026-09-23"
 ---
 
+<img width="1018" height="455" alt="image" src="https://github.com/user-attachments/assets/a9b9dc95-6722-4041-a849-91a3e105245c" />
+
 ## Hackatime link: https://hackatime.hackclub.com/@dushyantYadav0303/project/fire+case
 
 # 2026-09-23          CAD + RENDER + 3d printed
